@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167198606848",
+    "project_id": "ifarm-67476",
+    "storage_bucket": "ifarm-67476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167198606848:android:a5cb15b23d76d208c4bae5",
+        "android_client_info": {
+          "package_name": "com.example.organic_farm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167198606848-7nmoi2ijplnlb6naordsbjcjhh2p1ecn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAedpOYlz6hEONDvaJZgXOVk3gz4vgi2vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167198606848-7nmoi2ijplnlb6naordsbjcjhh2p1ecn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
